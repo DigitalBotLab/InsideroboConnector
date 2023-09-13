@@ -1,0 +1,1 @@
+# SketchFab Asset Provider [omni.kit.browser.asset_provider.sketchfab]

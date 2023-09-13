@@ -1,0 +1,14 @@
+
+[package]
+    archivePath = "http://d4i3qtqj3r0z5.cloudfront.net/omni.kit.browser.asset_provider.sketchfab-1.0.10.zip"
+    repository = "https://gitlab-master.nvidia.com/omniverse/kit-extensions/kit-browsers"
+
+    [package.publish]
+        date = 1669118155
+        kitVersion = "104.0+release.95826.4b36ab32.tc"
+        buildNumber = "101.1.0+master.1103.15b266ed.tc"
+        repoName = "kit-browsers"
+
+    [package.authors]
+        0 = "Jeffrey Qiu <jeqiu@nvidia.com>"
+        1 = "Philippe Sawicki <psawicki@nvidia.com>"
