@@ -12,7 +12,7 @@ from .sketchfab import SketchFabAssetProvider
 from .constants import SETTING_STORE_ENABLE
 
 
-class SketchfabAssetProviderExtension(omni.ext.IExt):
+class DigitalBotLabAssetProviderExtension(omni.ext.IExt):
     """ Sketchfab Asset Provider extension.
     """
 

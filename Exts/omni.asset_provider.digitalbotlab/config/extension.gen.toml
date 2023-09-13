@@ -1,6 +1,6 @@
 
 [package]
-    archivePath = "http://d4i3qtqj3r0z5.cloudfront.net/omni.kit.browser.asset_provider.sketchfab-1.0.10.zip"
+    archivePath = "http://d4i3qtqj3r0z5.cloudfront.net/omni.asset_provider.digitalbotlab-1.0.10.zip"
     repository = "https://gitlab-master.nvidia.com/omniverse/kit-extensions/kit-browsers"
 
     [package.publish]
@@ -10,5 +10,4 @@
         repoName = "kit-browsers"
 
     [package.authors]
-        0 = "Jeffrey Qiu <jeqiu@nvidia.com>"
-        1 = "Philippe Sawicki <psawicki@nvidia.com>"
+        0 = "Yizhou Zhao <yizhou@digitalbotlab.com>"

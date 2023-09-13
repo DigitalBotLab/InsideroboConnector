@@ -1,2 +1,2 @@
-SETTING_ROOT = "/exts/omni.kit.browser.asset_provider.sketchfab/"
+SETTING_ROOT = "/exts/omni.asset_provider.digitalbotlab/"
 SETTING_STORE_ENABLE = SETTING_ROOT + "enable"

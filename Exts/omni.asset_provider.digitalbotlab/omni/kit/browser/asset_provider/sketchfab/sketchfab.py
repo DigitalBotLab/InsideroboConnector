@@ -64,7 +64,7 @@ class SketchFabAssetProvider(BaseAssetStore):
     def provider(self) -> ProviderModel:
         """Return provider info"""
         return ProviderModel(
-            name=self._store_id, icon=f"{DATA_PATH}/sketchfab.png", enable_setting=SETTING_STORE_ENABLE
+            name=self._store_id, icon=f"{DATA_PATH}/digitalbotlab.png", enable_setting=SETTING_STORE_ENABLE
         )
 
     def authorized(self) -> bool:

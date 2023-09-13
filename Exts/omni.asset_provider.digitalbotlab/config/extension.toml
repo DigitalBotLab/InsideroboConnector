@@ -2,13 +2,13 @@
 authors = ["NVIDIA"]
 category = "services"
 changelog = "docs/CHANGELOG.md"
-description = "Sketchfab Asset Provider"
-icon = "data/sketchfab.png"
+description = "Digital Bot Lab Asset Provider"
+icon = "data/digitalbotlab.png"
 keywords = ["asset", "provider", "sketchfab"]
 preview_image = "data/preview.png"
 readme = "docs/README.md"
 repository = ""
-title = "Asset Provider for Sketchfab"
+title = "Asset Provider for Digital Bot Lab"
 version = "1.0.10"
 
 [dependencies]
@@ -18,17 +18,17 @@ version = "1.0.10"
 name = "omni.kit.browser.asset_provider.sketchfab"
 
 [settings]
-exts."omni.kit.browser.asset_provider.sketchfab".enable = true
-exts."omni.kit.browser.asset_provider.sketchfab".providerId = "Sketchfab"
-exts."omni.kit.browser.asset_provider.sketchfab".keepOriginalPageSize = true
-exts."omni.kit.browser.asset_provider.sketchfab".maxCountPerPage = 24
-exts."omni.kit.browser.asset_provider.sketchfab".minThumbnailSize = 256
-exts."omni.kit.browser.asset_provider.sketchfab".searchUrl = "https://api.sketchfab.com/v3/search"
-exts."omni.kit.browser.asset_provider.sketchfab".modelsUrl = "https://api.sketchfab.com/v3/models"
-exts."omni.kit.browser.asset_provider.sketchfab".authorizeUrl = "https://sketchfab.com/oauth2/authorize/"
-exts."omni.kit.browser.asset_provider.sketchfab".accessTokenUrl = "https://sketchfab.com/oauth2/token/"
-exts."omni.kit.browser.asset_provider.sketchfab".clientId = "eQcrihd32CeYmF9evsYEGXZr8vynHA82DW7SzJw2"
-exts."omni.kit.browser.asset_provider.sketchfab".clientSecret = ""
+exts."omni.asset_provider.digitalbotlab".enable = true
+exts."omni.asset_provider.digitalbotlab".providerId = "Digital Bot Lab"
+exts."omni.asset_provider.digitalbotlab".keepOriginalPageSize = true
+exts."omni.asset_provider.digitalbotlab".maxCountPerPage = 24
+exts."omni.asset_provider.digitalbotlab".minThumbnailSize = 256
+exts."omni.asset_provider.digitalbotlab".searchUrl = "https://api.sketchfab.com/v3/search"
+exts."omni.asset_provider.digitalbotlab".modelsUrl = "https://api.sketchfab.com/v3/models"
+exts."omni.asset_provider.digitalbotlab".authorizeUrl = "https://sketchfab.com/oauth2/authorize/"
+exts."omni.asset_provider.digitalbotlab".accessTokenUrl = "https://sketchfab.com/oauth2/token/"
+exts."omni.asset_provider.digitalbotlab".clientId = "eQcrihd32CeYmF9evsYEGXZr8vynHA82DW7SzJw2"
+exts."omni.asset_provider.digitalbotlab".clientSecret = ""
 
 [[test]]
 dependencies = ["omni.services.client", "omni.client"]

@@ -1,1 +1,1 @@
-# SketchFab Asset Provider [omni.kit.browser.asset_provider.sketchfab]
+# Insiderobo Asset Provider [omni.asset_provider.digitalbotlab]
