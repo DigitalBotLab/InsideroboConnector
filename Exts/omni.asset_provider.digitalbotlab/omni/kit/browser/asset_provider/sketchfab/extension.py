@@ -8,7 +8,7 @@
 import omni.ext
 import carb.settings
 from omni.services.browser.asset import get_instance as get_asset_services
-from .sketchfab import SketchFabAssetProvider
+from .digitalbotalab import DigitalBotLabAssetProvider
 from .constants import SETTING_STORE_ENABLE
 
 
@@ -17,7 +17,7 @@ class DigitalBotLabAssetProviderExtension(omni.ext.IExt):
     """
 
     def on_startup(self, ext_id):
-        self._asset_provider = SketchFabAssetProvider()
+        self._asset_provider = DigitalBotLabAssetProvider()
         self._asset_service = get_asset_services()
         self._asset_service.register_store(self._asset_provider)
         carb.settings.get_settings().set(SETTING_STORE_ENABLE, True)
