@@ -15,11 +15,11 @@ version = "1.0.10"
 "omni.services.browser.asset" = {}
 
 [[python.module]]
-name = "omni.kit.browser.asset_provider.sketchfab"
+name = "omni.asset_provider.sketchfab"
 
 [settings]
 exts."omni.asset_provider.digitalbotlab".enable = true
-exts."omni.asset_provider.digitalbotlab".providerId = "Digital Bot Lab"
+exts."omni.asset_provider.digitalbotlab".providerId = "Digital_Bot_Lab"
 exts."omni.asset_provider.digitalbotlab".keepOriginalPageSize = true
 exts."omni.asset_provider.digitalbotlab".maxCountPerPage = 24
 exts."omni.asset_provider.digitalbotlab".minThumbnailSize = 256

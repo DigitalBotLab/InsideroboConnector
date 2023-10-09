@@ -46,6 +46,7 @@ class SketchFabAssetProvider(BaseAssetStore):
             None
 
         """
+        print("DigitalBotLabAssetProvider.__init__")
         settings = carb.settings.get_settings()
         self._provider_id = settings.get_as_string(SETTING_ROOT + "providerId")
         super().__init__(store_id=self._provider_id)
@@ -64,7 +65,7 @@ class SketchFabAssetProvider(BaseAssetStore):
     def provider(self) -> ProviderModel:
         """Return provider info"""
         return ProviderModel(
-            name=self._store_id, icon=f"{DATA_PATH}/digitalbotlab.png", enable_setting=SETTING_STORE_ENABLE
+            name=self._store_id, icon=f"{DATA_PATH}/logo.png", enable_setting=SETTING_STORE_ENABLE
         )
 
     def authorized(self) -> bool:
