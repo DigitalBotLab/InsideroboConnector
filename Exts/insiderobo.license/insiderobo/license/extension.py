@@ -36,11 +36,12 @@ class InsideroboLicenseExtension(omni.ext.IExt):
                     ui.Label("License Name:", width = 100)
                     self.license_name_ui = ui.StringField()
                     self.license_name_ui.model.set_value("kinova")
+
                 with ui.HStack(height = 20):
                     ui.Label("License Path:", width = 100)
-                    self.license_path_ui = ui.StringField()
-                    self.license_name = self.license_name_ui.model.get_value_as_string()
-                    self.license_path_ui.model.set_value(LICENSE2PATH[self.license_name])  
+                    # self.license_path_ui = ui.StringField()
+                    # self.license_name = self.license_name_ui.model.get_value_as_string()
+                    # self.license_path_ui.model.set_value(LICENSE2PATH[self.license_name])  
                 
                 ui.Button("Add License to Prim", height = 20, clicked_fn=self.add_license)
                 
@@ -54,7 +55,8 @@ class InsideroboLicenseExtension(omni.ext.IExt):
         if prim_path == "":
             prim_path = stage.GetDefaultPrim().GetPath().pathString
 
-        license_path = self.license_path_ui.model.get_value_as_string()
+        self.license_name = self.license_name_ui.model.get_value_as_string()
+        license_path = LICENSE2PATH[self.license_name] #self.license_path_ui.model.get_value_as_string()
         prim = stage.GetPrimAtPath(prim_path)
 
         # load the license file into string

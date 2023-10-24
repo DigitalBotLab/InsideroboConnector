@@ -1,0 +1,148 @@
+License
+
+This license grants permission to you, your client, or your company (if you are using the website on their behalf) to license, download, and utilize the content in accordance with the terms outlined in this "License Agreement." It's essential to recognize that no one else is allowed to access your account or utilize the content obtained through your account without obtaining explicit written consent from Digital Bot Lab. Please be aware that downloading this content signifies your acceptance of this license and your commitment to adhere to the terms described herein.
+
+License Agreement
+
+1. Definitions
+
+• Digital Bot Lab: efers to our legal entity, located at Sunnyvale, CA.  
+• Content: Encompasses source code, photos, images, vectors, moving images, animations, films, videos, audiovisual works, or other media, along with associated metadata.
+• Website: Denotes our service, accessible at https://www.digitalbotlab.com/ and related online platforms. 
+• You/your: Refers to an individual or a legal entity, such as a business or non-profit group. 
+• End Product: Signifies the final product in which the Content is used. 
+• End User: Represents the person using the End Product. 
+• Client: Denotes the entity to which you transfer your license in exchange for services. For instance, if you are a freelancer, you may purchase an Extended License and transfer it to your Client for their use.
+
+2. Content licenses
+
+Digital Bot Lab is providing you with a non-exclusive, royalty-free, perpetual, and non-transferable permission to globally utilize, adapt (except as explicitly restricted here), and duplicate the Content. This authorization is granted for the duration of the protected intellectual property rights as allowed by the applicable license and subject to the outlined restrictions in this agreement.
+
+2.1. Standard License
+The Standard License gives you permission to utilize the Content you've acquired. You are authorized to employ the Content in a single End Product for either your personal use or for a single Client, and this End Product can be distributed at no cost.
+
+You have the following permissions:
+Utilize the Content in a single End Product for personal use.
+Employ the Content in a single End Product for a Client, transfer that End Product to your Client, and charge them for your services. The license is then transferred to the Client.
+Modify the Content or combine it with other works to create derivative works. The resulting work is subject to this license. This clause also covers extracting individual components from the Content and using them in derivative works.
+However, there are certain restrictions:
+You cannot use the Content in an End Product that is intended for sale to one or more paying End Users.
+You cannot use the Content in more than one unique End Product. This license is for a "single application" and not for "multi-use." If you plan to use the same Content for another End Product, you must purchase additional licenses.
+You cannot use your license for multiple organizations. For example, if you are a development agency, you can only transfer your license to one customer.
+Redistributing the Content's source, even after modification, is not allowed.
+Using the Content in applications that enable End Users to customize the Content, such as "build it yourself" or "theme generators," is prohibited. You can purchase separate licenses for each final product that incorporates the Content created using such applications.
+Allowing the End User of the End Product to access the Content's source and use it separately from the End Product is also not permitted.
+If the Content includes code, images, or materials obtained from other sources with different licenses, those elements maintain their original licensing terms. The specific license for such code, images, or materials will be indicated by the Content's creator. It is your responsibility to comply with the original license terms or obtain clearance from the author of the code, image, or material.
+This license can be terminated if you violate its terms, resulting in the loss of your rights to distribute the End Product until the Content has been completely removed from it.
+The creator of the Content retains ownership of the Content but grants you a license based on these conditions. This licensing agreement is strictly between you and the Content's creator, and Digital Bot Lab is not a party to this license or the one who grants it to you.
+
+2.2. Extended License
+
+The Extended License provides you with the privilege to utilize the Content you've acquired. You are permitted to employ the Content in a single End Product for either personal use or for one Client (referred to as a "single application"), and this End Product may be offered for sale or distributed free of charge.
+
+You have the following permissions:
+Utilize the Content in a single End Product for personal use.
+Employ the Content in a single End Product for a Client, transfer that End Product to your Client, and charge them for your services. The license is then transferred to the Client.
+Modify the Content or combine it with other works to create derivative works. The resulting work is subject to this license. This clause also covers extracting individual components from the Content and using them in derivative works.
+However, there are certain restrictions:
+You cannot use the Content in an End Product that is intended for sale to one or more paying End Users.
+You cannot use the Content in more than one unique End Product. This license is for a "single application" and not for "multi-use." If you plan to use the same Content for another End Product, you must purchase additional licenses.
+You cannot use your license for multiple organizations. For example, if you are a development agency, you can only transfer your license to one customer.
+Redistributing the Content's source, even after modification, is not allowed.
+Using the Content in applications that enable End Users to customize the Content, such as "build it yourself" or "theme generators," is prohibited. You can purchase separate licenses for each final product that incorporates the Content created using such applications.
+Allowing the End User of the End Product to access the Content's source and use it separately from the End Product is also not permitted.
+If the Content includes code, images, or materials obtained from other sources with different licenses, those elements maintain their original licensing terms. The specific license for such code, images, or materials will be indicated by the Content's creator. It is your responsibility to comply with the original license terms or obtain clearance from the author of the code, image, or material.
+This license can be terminated if you violate its terms, resulting in the loss of your rights to distribute the End Product until the Content has been completely removed from it.
+The creator of the Content retains ownership of the Content but grants you a license based on these conditions. This licensing agreement is strictly between you and the Content's creator, and Digital Bot Lab is not a party to this license or the one who grants it to you.
+
+2.3. Design License
+This license is exclusively applicable to the design kits known as Digital Twin Starter. For the sake of clarity within this section, an editor is defined as an individual who utilizes design assets, whether directly or indirectly, in the creation or modification of digital twin designs.
+
+Under the Design License, you are granted the privilege to utilize the Content you've acquired. You are authorized to employ the Content in an unlimited number of End Products, which may either be sold or distributed at no cost.
+
+In terms of the required quantity of licenses, it is essential that the number of licenses procured aligns with the maximum number of editors working concurrently within a 24-hour timeframe. An editor, in this context, refers to a person who contributes changes to the designed screens that incorporate the Content. Notably, there is no need for licenses when it comes to viewing designs that include the Content.
+
+You have the following permissions:
+Share the Content in your team's library and utilize it within your organization, provided you acquire licenses for each editor. No licenses are needed for viewing designs that incorporate the Content.
+Generate an unlimited number of End Products for Clients, transfer these End Products to your Clients, and charge them for your services.
+Sell and create multiple copies of the End Products. This constitutes a "multi-use" license.
+Adapt or merge the Content with other materials to create derivative works. Such creations are subject to this license. This clause also encompasses extracting individual components from the Content for use in derivative works.
+However, there are restrictions:
+You must not employ the Content for more editors than the number of licensed seats you possess. This license functions on a "per-seat" basis. If you intend to use the same Content for the benefit of additional editors, such as other designers on your team, you must obtain supplementary licenses.
+Redistribution of the Content's source, even when modified, is not allowed, except as explicitly permitted herein.
+The use of the Content in applications that enable End Users to customize it, such as "build it yourself" or "theme generators," is prohibited.
+End Users of the End Product should not have access to the Content's source or use it separately from the End Product.
+It's important to note that this license may be terminated if breached, resulting in the loss of your rights to use it or any works created under its provisions.
+
+3. Restrictions on the use of content
+
+Here are the restrictions you must adhere to:
+Only use Content as explicitly permitted by the license you obtained for that particular Content.
+Do not engage in the resale, redistribution, provision of access to, sharing, or transfer of any Content, unless expressly allowed in this agreement. For instance, this prohibition extends to the presentation of Content as part of a "gallery" where third parties can browse and select from the Content.
+Avoid using Content in a way that violates the trademarks or other intellectual property rights of third parties or could result in claims of deceptive advertising or unfair competition.
+Refrain from using any Content in a context that is pornographic, defamatory, deceptive, or potentially illegal.
+
+4. Warranties and representations
+Digital Bot Lab provides the following warranties and representations:
+Content authors have granted Digital Bot Lab all the necessary rights to the Content, enabling the granting of the rights outlined in Section 2 Content licenses.
+Content, when used in its original, unaltered form and in full compliance with this license agreement and applicable laws, does not:
+i) Infringe upon any copyrights, trademarks, or other intellectual property rights.
+ii) Violate the privacy or publicity rights of any third parties.
+iii) Breach any French laws, statutes, ordinances, or regulations.
+iv) Be defamatory, libelous, pornographic, or obscene.
+While Digital Bot Lab makes reasonable commercial efforts to ensure the accuracy of keywords and descriptions, it does not provide warranties or representations regarding these descriptions. To clarify, Digital Bot Lab will not offer indemnification or accept liability for claims arising from inaccurate keywords, titles, or descriptions.
+
+Please note that Digital Bot Lab's warranties and representations are limited to what is explicitly stated in this "Warranties and representations" section.
+
+5. Indemnification and liability
+Subject to the conditions outlined here and provided that you have not violated the terms of this agreement or any other agreement with Digital Bot Lab, Digital Bot Lab will undertake the defense, indemnification, and protection of you, up to the applicable "Limits of Liability" described below. This indemnification is strictly limited to direct damages incurred by you due to a third-party claim that can be directly attributed to Digital Bot Lab's breach of the explicit warranties and representations detailed in Part III of this agreement. This coverage also extends to associated expenses, including reasonable attorney fees. For indemnification to be effective, you must promptly notify Digital Bot Lab in writing of any such claim or potential claim and fully cooperate in the defense of the claim. Your notification should include all available details about the claim, such as the specific use of Content in question, the identity and contact information of the party or entity making the claim, and copies of any relevant correspondence. You can send this notification via email to Digital Bot Lab at info@digitalbotlab.com, along with a physical copy sent via certified mail with a return receipt requested, or through an overnight courier service with the requirement of the recipient's signature.
+
+Digital Bot Lab retains the right to take charge of handling, settling, or defending any claim or legal action covered by this indemnification. You also agree to cooperate fully with Digital Bot Lab in the defense of such claims and have the right to participate in any related litigation at your own expense. It's important to note that Digital Bot Lab is not responsible for any legal fees or other costs incurred by you or on your behalf before Digital Bot Lab has had a reasonable opportunity to assess the validity of such claims.
+
+Digital Bot Lab is not liable for any damages, costs, or losses resulting from alterations made to the Content by you or due to the specific context in which you use the Content.
+
+Limits of Liability: The maximum aggregate obligation and liability of Digital Bot Lab, referred to as the "Limits of Liability," in relation to each claim, shall not exceed USD 1,000.
+
+If you have any questions about the information mentioned above, please reach out to customer support at info@digitalbotlab.com.
+
+Additionally, you agree to indemnify and hold harmless Digital Bot Lab, including its officers, employees, shareholders, directors, managers, members, and suppliers, against any damages or liability of any nature stemming from the use of the Content by you or your clients, except for the uses explicitly allowed by this license agreement. Furthermore, you commit to indemnify Digital Bot Lab for all costs and expenses incurred by Digital Bot Lab in the event of your breach of the terms of this agreement or any other agreement with Digital Bot Lab.
+
+6. Additional terms
+If Digital Bot Lab is required to collect indirect taxes (such as sales tax, value-added tax, goods and services tax) under the laws of your state or country of residence, you shall be liable for payment of any such indirect tax. Where Digital Bot Lab or you are required to collect or remit direct or indirect taxes, you may be required to self-assess said tax under the applicable laws of your country of residence.
+
+Upon notice from Digital Bot Lab or if you learn that any Content is subject to a threatened or actual claim of infringement, violation of another right, or any other claim for which Digital Bot Lab may be liable, or if Digital Bot Lab removes any Content for any reason and gives you notice of such removal, you will remove the Content from your computer systems and storage devices (electronic or physical) and, if possible, cease any future use of the removed Content at your own expense within a reasonable time. Digital Bot Lab shall provide you with comparable Content (which comparability will be determined by Digital Bot Lab in its reasonable commercial judgment) free of charge, but subject to the terms and conditions of this license agreement.
+
+"Non-transferable" as used herein means that except as specifically provided in this license agreement, you may not sell, rent, loan, give, sublicense, or otherwise transfer to anyone, Content, or the right to use Content.
+
+If you transfer your license to the Content to your Client, you should disclose the identity of this Client to Digital Bot Lab, upon Digital Bot Lab's reasonable request.
+
+This agreement is subject to French law. Any dispute between you and Digital Bot Lab, whether in relation to the formation, performance, interpretation, validity, termination or rescission of this agreement, including conservatory proceedings, emergency proceedings, summary proceedings, appeal, petition or multiple defendants, shall be within the jurisdiction of the Paris Court of Appeal.
+
+This license agreement shall be construed neither against nor in favor of any party, but rather in accordance with the fair meaning of the language hereof. This license agreement is governed by and shall be construed in accordance with French law, without respect to its conflict of laws principles.
+
+If you are entering into this license agreement on behalf of your employer or other entity, you warrant and represent that you have the full right and authority to do so. In the event that you do not have such authority, you agree that you will be personally liable to Digital Bot Lab for any breaches of the terms of this license agreement.
+
+You hereby grant Digital Bot Lab a worldwide, non-exclusive, limited license to use your trademarks in Digital Bot Lab 's promotional materials, including a public customer list. Digital Bot Lab 's use of your trademarks shall at all times conform to your then-current trademark use policies as made available to Digital Bot Lab and shall at all times inure to your benefit. Digital Bot Lab agrees that it will use commercially reasonable efforts to terminate any particular use of your trademark no later than thirty (30) days from the date of receipt by Digital Bot Lab of your email request to info@digitalbotlab.com.
+
+If any individual term of this license agreement is found to be invalid or unenforceable by any legal or regulatory body of competent jurisdiction, such finding will be limited solely to such invalid or unenforceable part, without affecting the remaining parts of such individual term, or any other part of this license agreement, so that this license agreement shall otherwise remain in full force and effect.
+
+It is expressly understood and agreed that this license agreement is entered into solely for the mutual benefit of the parties herein and that no benefits, rights, duties, or obligations are intended by this license agreement as to third parties.
+
+In the event of an uncured breach of any of the terms of this or any other agreement with Digital Bot Lab, Digital Bot Lab shall have the right to terminate your account without further notice, in addition to Digital Bot Lab 's other rights at law and/or equity. Digital Bot Lab shall be under no obligation to refund any fees paid by you in the event that your account is terminated by reason of an uncured breach.
+
+Digital Bot Lab's liability under any individual license purchased hereunder shall not exceed the "Limits of Liability" applicable to the license in effect at the time customer knows or should have known of the claim and is without regard to the number of times the subject Content is licensed or used by you.
+
+Except as specifically provided in Part IV hereof, in no event, will Digital Bot Lab 's total aggregate liability to you or any third party claiming through you, arising out of or in connection with your use of or inability to use the Website and/or Content contained thereon (whether in contract, tort or otherwise) exceed the monetary amount actually received by Digital Bot Lab from you for the applicable Content license.
+
+Neither Digital Bot Lab nor any of its officers, employees, managers, members, shareholders, directors or suppliers shall be liable to you or to any other person or entity for any general, punitive, special, indirect, consequential or incidental damages, or lost profits or any other damages, costs or losses arising out of your use of the Content, Digital Bot Lab 's breach of this agreement, or otherwise, unless expressly provided for herein, even if Digital Bot Lab has been advised of the possibility of such damages, costs or losses.
+
+Except as expressly set forth in Part III, all Content is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular use, quality, title, or non-infringement. Digital Bot Lab makes no warranty as to the accuracy, completeness or reliability of any Content available through, or the performance of, the Website.
+
+Except as expressly set forth in Part III, Digital Bot Lab makes no representations or warranties whatsoever with respect to any other website or its content, which may be accessed through this Website. A link to another website does not constitute an endorsement of that website or of any product, service or other material offered on that website by Digital Bot Lab or its licensors. Digital Bot Lab has no control over any such other website or its contents and will have no liability arising out of or related to such website or its contents.
+
+7. Entire agreement
+This agreement contains the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties.
+
+By downloading Content from the Website, you agree to the terms of this agreement. If you disagree with these terms, refrain from downloading Content. For questions about this license agreement, contact us at info@digitalbotlab.com.
+
+By clicking to accept and/or downloading Content from the Website, you are deemed to have accepted this license agreement and are agreeing to be bound by its terms and conditions.
