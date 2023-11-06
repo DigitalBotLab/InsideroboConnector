@@ -11,4 +11,6 @@ LICENSE2PATH = {
     "kinova": os.path.join(script_directory, "licences", "KINOVA_LICENSE.txt"),
     "ufactory": os.path.join(script_directory, "licences", "UFACTORY_LICENSE.txt"),
     "digitalbotlab": os.path.join(script_directory, "licences", "DIGITALBOTLAB_EXTENDED_LICENSE.txt"),
+    "universal_robot": os.path.join(script_directory, "licences", "UR_LICENESE_INFO.txt"),
+    "franka": os.path.join(script_directory, "licences", "FRANKA_LICENSE.txt"),
 }
